@@ -22,4 +22,4 @@ Então acesse `http://localhost:8000`. Three.js, GSAP e as fontes são carregado
 
 ## Funcionalidades
 
-Cena 3D interativa (com halter como easter egg), animações de entrada, tilt, filtros e ficha de treino com drag-and-drop, presets, cronômetro com alerta sonoro, impressão, calculadoras, grade filtrável, slider antes/depois, carrossel, FAQ, matrícula validada em quatro etapas, cartão com QR demonstrativo, área de aluno e confirmações de formulário. Os dados de matrícula e treino são mantidos no `localStorage` do navegador.
+Cena 3D interativa com esferas vítreas e luz emissiva, fallback CSS para WebGL indisponível e movimento reduzido, animações de entrada, tilt, filtros e ficha de treino com drag-and-drop, presets, cronômetro com alerta sonoro, impressão, calculadoras, grade filtrável, slider antes/depois, carrossel, FAQ, matrícula validada em quatro etapas, cartão com QR demonstrativo, área de aluno e confirmações de formulário. Os dados de matrícula e treino são mantidos no `localStorage` do navegador.
